@@ -10,7 +10,7 @@ image: images/cctv.jpeg
 
 Lorem markdownum comes; pro est [modo famulus](#pervenerat), quo quod neu
 manibus aether his nomine, Aurora, voce. Ipse virga res vidit profanis vocatos,
-quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet
+quod vestigia cineres, dum silva in vapor. Tendite caelestibus quam, sub inplet.
 prole eveniet **superi** rus proles venenis potestas Tereo pluribus sunto.
 
 Perque cessisse, hoc tum auras sinuosa. Pressant nec vinci primoque quoque
